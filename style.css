@@ -1,0 +1,38 @@
+body{
+	background-color:lightblue;
+	color: purple;
+	font-size: 18px;
+}
+nav ul{
+	background-color: tomato;	
+  border-style: solid;
+  border-color: MediumVioletRed;
+  padding: 10px;
+  border-width: 2px;
+  border-radius: 10px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline;
+	padding: 10px;
+}
+nav ul li a:hover{
+	color: white;
+}
+nav ul li a {
+	text-decoration: none;
+}
+table tr th {
+	text-align: left;
+}
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+table, tr{
+	background-color: PaleTurquoise;
+}
+table, th, td{
+	color: purple;
+	padding: 5px;
+}
